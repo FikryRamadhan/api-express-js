@@ -70,6 +70,12 @@ Go to the project directory
   cd  test-backend
 ```
 
+Set up your database,file in Database/db_book.sql
+
+```bash
+  import database
+```
+
 Install dependencies
 
 ```bash
