@@ -17,15 +17,15 @@ Project ini di buat dengan framework js yaitu express js.project ini bertujuan d
 - Return-book
 
 
-## Book
+#### Book
 - Menambahkan data book
 - Mengecek stock book
 
-## Member
+#### Member
 - Menambahkan data member
 - Melihat data member dan jumlah buku yang di pinjam
 
-## Boking-book
+#### Boking-book
 - Menambahkan Data boking-book dengan validasi:
       - data wajib di isi
       - member tidak memiliki sanksi karna telat 
@@ -39,7 +39,7 @@ Project ini di buat dengan framework js yaitu express js.project ini bertujuan d
        - dll
 - Melihat semua data boking-book
 
-## Return-book
+#### Return-book
 - Melihat semua logs pengembalian buku
 - Menambahkan data dengan beberapa validasi:
        -buku yang di pinjam memang ada di tabel 
