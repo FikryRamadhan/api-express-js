@@ -61,7 +61,7 @@ const bokingBook = async (req, res) => {
         
         // Mengambil +7 dari sekarang untuk deadline Format YYYY-MM-DD
         let tanggalSekarang = new Date();
-        tanggalSekarang.setDate(tanggalSekarang.getDate() + 3);
+        tanggalSekarang.setDate(tanggalSekarang.getDate() + 7);
         let tanggalPlus3 = tanggalSekarang.toISOString().slice(0, 10);
 
         // Menyimpan Data Boking Buku
