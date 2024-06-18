@@ -61,7 +61,7 @@ Project ini di buat dengan framework js yaitu express js.project ini bertujuan d
 Clone the project
 
 ```bash
-  git clone https://github.com/FikryRamadhan/test-backend.git
+  git clone https://github.com/FikryRamadhan/api-express-js
 ```
 
 Go to the project directory
