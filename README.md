@@ -1,7 +1,6 @@
 
-# Backend With Express Js
-Project ini di buat dengan framework js yaitu express js.project ini bertujuan dalam mengelola data buku dan member dengan beberapa validasi
-
+# API With Express Js
+API ini dibuat untuk frond end yang dimana untuk penyewaan buku.
 
 
 
